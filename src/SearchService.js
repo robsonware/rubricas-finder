@@ -3,6 +3,26 @@ export class SearchService {
         this.rubricas = null;
         this.isLoading = false;
         this.loadPromise = null;
+        this.basePath = this.getBasePath();
+    }
+
+    /**
+     * Obtém o caminho base do projeto, considerando se está hospedado no GitHub Pages
+     * @returns {string} Caminho base do projeto
+     */
+    getBasePath() {
+        // Verifica se está rodando no GitHub Pages
+        const isGitHubPages = window.location.hostname.includes('github.io');
+        if (isGitHubPages) {
+            // Extrai o caminho base do repositório a partir da URL
+            const pathSegments = window.location.pathname.split('/');
+            // Para GitHub Pages, o primeiro segmento após o domínio é o nome do repositório
+            if (pathSegments.length > 1) {
+                return `/${pathSegments[1]}`;
+            }
+        }
+        // Se não estiver no GitHub Pages, usa o caminho raiz
+        return '';
     }
 
     /**
@@ -26,7 +46,7 @@ export class SearchService {
         this.loadPromise = new Promise(async (resolve, reject) => {
             try {
                 console.log('Carregando lista de rubricas...');
-                const response = await fetch('/data/listagem-rubricas.json');
+                const response = await fetch(`${this.basePath}/data/listagem-rubricas.json`);
                 
                 if (!response.ok) {
                     throw new Error(`Erro ao carregar rubricas: ${response.status} ${response.statusText}`);

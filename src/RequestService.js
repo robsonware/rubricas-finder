@@ -1,6 +1,26 @@
 export class RequestService {
     constructor() {
-        // Não precisamos mais da baseUrl
+        // Inicializa o caminho base do projeto
+        this.basePath = this.getBasePath();
+    }
+
+    /**
+     * Obtém o caminho base do projeto, considerando se está hospedado no GitHub Pages
+     * @returns {string} Caminho base do projeto
+     */
+    getBasePath() {
+        // Verifica se está rodando no GitHub Pages
+        const isGitHubPages = window.location.hostname.includes('github.io');
+        if (isGitHubPages) {
+            // Extrai o caminho base do repositório a partir da URL
+            const pathSegments = window.location.pathname.split('/');
+            // Para GitHub Pages, o primeiro segmento após o domínio é o nome do repositório
+            if (pathSegments.length > 1) {
+                return `/${pathSegments[1]}`;
+            }
+        }
+        // Se não estiver no GitHub Pages, usa o caminho raiz
+        return '';
     }
 
     /**
@@ -15,7 +35,7 @@ export class RequestService {
 
         try {
             console.log(`Buscando rubrica do arquivo local: ${codigo}.json`);
-            const response = await fetch(`/data/rubricas/${codigo}.json`);
+            const response = await fetch(`${this.basePath}/data/rubricas/${codigo}.json`);
             
             if (!response.ok) {
                 throw new Error(`Arquivo não encontrado para o código ${codigo}`);

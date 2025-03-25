@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "9214",
+    "nome":  "13° salário - desconto de adiantamento",
+    "descricao":  "Desconto de antecipação do 13° salário",
+    "tipo":  "Desconto",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "12 - 13o Salário",
+    "inss_baselegal":  "Art. 28 § 9º da Lei n° 8.212/91",
+    "ir_incidencia":  "Não",
+    "ir_classificacao":  "12 - 13o Salário",
+    "ir_baselegal":  "Lei 7.713/1988, art. 26, e Lei 8.134/1990, art. 16",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  "12 - Base de Cálculo do FGTS 13° salário",
+    "fgts_baselegal":  "Art. 15 §6º da Lei n° 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

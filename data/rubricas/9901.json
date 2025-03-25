@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "9901",
+    "nome":  "Base de cálculo da contribuição previdenciária",
+    "descricao":  "Valor total da base de cálculo da contribuição previdenciária",
+    "tipo":  "Informativa",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "00 - Não é base de cálculo",
+    "inss_baselegal":  " ",
+    "ir_incidencia":  "Não",
+    "ir_classificacao":  "00 - Rendimento não tributável",
+    "ir_baselegal":  "Lei 8.134/90 art. 7",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  "00 - Não é Base de Cálculo do FGTS",
+    "fgts_baselegal":  "Art. 15 §6º da Lei n° 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

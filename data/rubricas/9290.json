@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "9290",
+    "nome":  "Desconto de pagamento indevido em meses anteriores",
+    "descricao":  "Valor correspondente a desconto de verbas pagas indevidamente ao trabalhador em meses anteriores e que estão sendo descontadas no mês de referência, exceto valores relativos a assistência médica, alimentação, previdência complementar e seguro de vida",
+    "tipo":  "Desconto",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "11 - Mensal",
+    "inss_baselegal":  "Art. 28 § 9º da Lei n° 8.212/91",
+    "ir_incidencia":  "Não",
+    "ir_classificacao":  "11 - Remuneração mensal",
+    "ir_baselegal":  "Arts. 3°e 7° da Lei n° 7.713/88",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  "11 - Base de Cálculo do FGTS",
+    "fgts_baselegal":  "Art. 15 da Lei n° 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  true,
+    "ferias":  true,
+    "aviso_previo":  true,
+    "decimo_terceiro_salario":  true,
+    "afastamento":  true
+}

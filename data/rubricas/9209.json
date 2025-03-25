@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "9209",
+    "nome":  "Faltas ou atrasos",
+    "descricao":  "Desconto correspondente a faltas, atrasos no início da jornada de trabalho ou à saída antecipada do trabalhador",
+    "tipo":  "Desconto",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "11 - Mensal",
+    "inss_baselegal":  " ",
+    "ir_incidencia":  "Não",
+    "ir_classificacao":  "11 - Remuneração mensal",
+    "ir_baselegal":  "Art. 3 e 7 da Lei n° 7.713/88",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  "11 - Base de Cálculo do FGTS",
+    "fgts_baselegal":  " ",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

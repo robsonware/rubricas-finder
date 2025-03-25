@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "9213",
+    "nome":  "Pensão alimentícia",
+    "descricao":  "Desconto correspondente a pensão alimentícia sobre o salário mensal, 13° salário, PLR e férias",
+    "tipo":  "Desconto",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "00 - Não é base de cálculo",
+    "inss_baselegal":  " ",
+    "ir_incidencia":  "Não",
+    "ir_classificacao":  "51 - Pensão Alimentícia - Remuneração mensal",
+    "ir_baselegal":  "Lei n° 9.250 de 1995, art. 4°, incisos IV e V",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  "00 - Não é Base de Cálculo do FGTS",
+    "fgts_baselegal":  " ",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

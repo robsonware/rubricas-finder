@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "9939",
+    "nome":  "Outros valores tributáveis",
+    "descricao":  "Valor não relativo a vencimento ou desconto mas considerado como base de cálculo do FGTS, e/ou da contribuição previdenciária e/ou do Imposto de Renda Retido na Fonte inclusive suas deduções e isenções",
+    "tipo":  "Vencimento, provento ou pensão",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  " ",
+    "inss_baselegal":  " ",
+    "ir_incidencia":  "Sim",
+    "ir_classificacao":  "11 - Remuneração mensal",
+    "ir_baselegal":  "Lei 7.713/88 art. 3, §1 e §4",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  " ",
+    "fgts_baselegal":  " ",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

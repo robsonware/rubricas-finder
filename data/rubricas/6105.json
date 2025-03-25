@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "6105",
+    "nome":  "Indenização recebida a título de incentivo a demissão",
+    "descricao":  "Valor correspondente a incentivo a demissão em Programas de Demissão Voluntária - PDV",
+    "tipo":  "Vencimento, provento ou pensão",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "00 - Não é base de cálculo",
+    "inss_baselegal":  "Art. 28 § 9º da Lei n° 8.212/91",
+    "ir_incidencia":  "Não",
+    "ir_classificacao":  "74 - Indenização e rescisão de contrato, inclusive a título de PDV e acidentes de trabalho",
+    "ir_baselegal":  "IN SRF 004/1999, art. 4; AD SRF 003/1999",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  "00 - Não é Base de Cálculo do FGTS",
+    "fgts_baselegal":  "Art. 15 §6º da Lei n° 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

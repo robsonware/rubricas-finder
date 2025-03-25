@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "9205",
+    "nome":  "Provisão de contribuição previdenciária",
+    "descricao":  "Desconto efetuado em recibos de férias relativo a provisão de contribuição previdenciária",
+    "tipo":  "???",
+    "inss_incidencia":  "???",
+    "inss_classificacao":  "???",
+    "inss_baselegal":  "???",
+    "ir_incidencia":  "???",
+    "ir_classificacao":  " ",
+    "ir_baselegal":  "???",
+    "fgts_incidencia":  "???",
+    "fgts_classificacao":  "???",
+    "fgts_baselegal":  "???",
+    "cs_incidencia":  "???",
+    "cs_classificacao":  "???",
+    "cs_baselegal":  "???",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "9203",
+    "nome":  "Imposto de renda retido na fonte",
+    "descricao":  "Desconto a título de imposto de renda retido na fonte - IRRF",
+    "tipo":  "Desconto",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "00 - Não é base de cálculo",
+    "inss_baselegal":  " ",
+    "ir_incidencia":  "Não",
+    "ir_classificacao":  "31 - Remuneração mensal",
+    "ir_baselegal":  "Lei 7.713/1988, art. 26, e Lei 8.134/1990, art. 16",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  "00 - Não é Base de Cálculo do FGTS",
+    "fgts_baselegal":  " ",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "9224",
+    "nome":  "FAPI - parte do empregado",
+    "descricao":  "Desconto referente a participação do trabalhador no custo de Fundo de Aposentadoria Programada Individual - FAPI, ou em virtude de concessão do benefício em valor maior",
+    "tipo":  "Desconto",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "00 - Não é base de cálculo",
+    "inss_baselegal":  " ",
+    "ir_incidencia":  "Não",
+    "ir_classificacao":  "00 - Rendimento não tributável",
+    "ir_baselegal":  "Lei n° 9.250, de 1995, art. 4°, incisos IV e V",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  "00 - Não é Base de Cálculo do FGTS",
+    "fgts_baselegal":  "Art. 15 §6º da Lei n° 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

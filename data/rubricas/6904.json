@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "6904",
+    "nome":  "Multa prevista no art. 480 da CLT",
+    "descricao":  "Valor descontado do empregado pela rescisão antecipada, por iniciativa do empregado, do contrato de trabalho a termo",
+    "tipo":  "Desconto",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "00 - Não é base de cálculo",
+    "inss_baselegal":  "Art. 28 § 9º da Lei n° 8.212/91",
+    "ir_incidencia":  "Não",
+    "ir_classificacao":  "00 - Rendimento não tributável",
+    "ir_baselegal":  "Art. 6°, V da Lei n° 7.713/88",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  "00 - Não é Base de Cálculo do FGTS",
+    "fgts_baselegal":  " ",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

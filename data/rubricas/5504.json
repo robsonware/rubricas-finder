@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "5504",
+    "nome":  "13º salário - Adiantamento",
+    "descricao":  "Valor relativo a adiantamento do 13° salário",
+    "tipo":  "Vencimento, provento ou pensão",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "00 - Não é base de cálculo",
+    "inss_baselegal":  "Art 28 § 9º da Lei nº 8.212/91",
+    "ir_incidencia":  "Não",
+    "ir_classificacao":  " ",
+    "ir_baselegal":  "Lei 7.713, de 1988, art. 26",
+    "fgts_incidencia":  "Sim",
+    "fgts_classificacao":  "12 - Base de Cálculo do FGTS 13º salário",
+    "fgts_baselegal":  "Art. 15 da Lei nº 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

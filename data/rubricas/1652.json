@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "1652",
+    "nome":  "Diárias de viagem - acima de 50% do salário",
+    "descricao":  "Diárias de viagem superior a 50% do salário-base mensal",
+    "tipo":  "???",
+    "inss_incidencia":  "???",
+    "inss_classificacao":  "???",
+    "inss_baselegal":  "???",
+    "ir_incidencia":  "???",
+    "ir_classificacao":  " ",
+    "ir_baselegal":  "???",
+    "fgts_incidencia":  "???",
+    "fgts_classificacao":  "???",
+    "fgts_baselegal":  "???",
+    "cs_incidencia":  "???",
+    "cs_classificacao":  "???",
+    "cs_baselegal":  "???",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

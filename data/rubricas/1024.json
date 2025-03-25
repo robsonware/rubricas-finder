@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "1024",
+    "nome":  "Férias - o dobro na vigência do contrato",
+    "descricao":  "Valor correspondente a remuneração a que faz jus na época da concessão das férias, concedidas após o prazo de concessão, inclusive o adicional constitucional",
+    "tipo":  "Vencimento, provento ou pensão",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "00 - Não é Base de Cálculo",
+    "inss_baselegal":  "Art. 28 § 9º da Lei n° 8.212/91",
+    "ir_incidencia":  "Sim",
+    "ir_classificacao":  "13 - Férias",
+    "ir_baselegal":  "IN RFB 936/2009 art. 1 Parecer PGFN/PGA 2.683/2008 , Itens 5,6,7",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  "00 - Não é Base de Cálculo do FGTS",
+    "fgts_baselegal":  "Art. 15 §6º da Lei n° 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é Base de Cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

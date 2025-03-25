@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "2502",
+    "nome":  "Liberalidades concedidas em mais de duas parcelas anuais",
+    "descricao":  "Liberalidades concedidas pelo empregador em forma de bens, serviços ou valor em dinheiro a empregado ou a grupo de empregados, em razão de desempenho superior ao ordinariamente esperado no exercício de suas atividades, em mais de duas parcelas anuais",
+    "tipo":  "Vencimento, provento ou pensão",
+    "inss_incidencia":  "Sim",
+    "inss_classificacao":  "11 - Mensal",
+    "inss_baselegal":  "Art. 28, I da Lei n° 8.212/91",
+    "ir_incidencia":  "Sim",
+    "ir_classificacao":  "11 - Remuneração mensal",
+    "ir_baselegal":  "Art. 3, e 7 da Lei n° 7.713/88; RIR/99 art. 49 - 51",
+    "fgts_incidencia":  "Sim",
+    "fgts_classificacao":  "11 - Base de Cálculo do FGTS",
+    "fgts_baselegal":  "Art. 15 da Lei n° 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é Base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

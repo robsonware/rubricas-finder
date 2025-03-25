@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "1401",
+    "nome":  "Abono",
+    "descricao":  "Qualquer abono concedido de forma espontânea ou em virtude de acordo ou convenção coletiva, norma, etc.",
+    "tipo":  "Vencimento, provento ou pensão",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "00 - Não é base de cálculo",
+    "inss_baselegal":  "Artigo 457 § 2º da CLT",
+    "ir_incidencia":  "Sim",
+    "ir_classificacao":  "11 - Remuneração mensal",
+    "ir_baselegal":  "Arts. 3°e 7° da Lei n° 7.713/88",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  "00 - Não é Base de Cálculo do FGTS",
+    "fgts_baselegal":  "Art. 457 § 2º da CLT",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é Base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

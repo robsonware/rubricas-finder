@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "1010",
+    "nome":  "Salário in natura - pagos em bens ou serviços",
+    "descricao":  "Salário in natura, também conhecido por salário rnutilidade, correspondente a remunerações pagasrnem bens ou serviços",
+    "tipo":  "Vencimento, provento ou pensão",
+    "inss_incidencia":  "Sim",
+    "inss_classificacao":  "11 - Mensal",
+    "inss_baselegal":  "Art. 28, I da Lei n° 8.212/91",
+    "ir_incidencia":  "Sim",
+    "ir_classificacao":  "11 - Remuneração mensal",
+    "ir_baselegal":  "Arts. 3°e 7° da Lei n° 7.713/88; Acórdão Nº 10-16716 de 23 de Julho de 2008",
+    "fgts_incidencia":  "Sim",
+    "fgts_classificacao":  "11 - Base de Cálculo do FGTS",
+    "fgts_baselegal":  "Art. 15 da Lei n° 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  true,
+    "aviso_previo":  true,
+    "decimo_terceiro_salario":  true,
+    "afastamento":  true
+}

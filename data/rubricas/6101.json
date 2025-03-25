@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "6101",
+    "nome":  "Indenização compensatória - multa rescisória 20 ou 40% (CF/88)",
+    "descricao":  "Valor correspondente à indenização por demissão sem justa causa, por culpa recíproca ou força maior (ambas reconhecidas pela Justiça do Trabalho), por acordo entre empregado e empregador ou por extinção do contrato de trabalho intermitente, quando da rescisão do contrato de trabalho",
+    "tipo":  "Vencimento, provento ou pensão",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "00 - Não é base de cálculo",
+    "inss_baselegal":  "Art. 28 § 9º da Lei n° 8.212/91",
+    "ir_incidencia":  "Não",
+    "ir_classificacao":  "74 - Indenização e rescisão de contrato, inclusive a título de PDV e acidentes de trabalho",
+    "ir_baselegal":  "Lei n° 8.036/1990, art. 28",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  "00 - Não é Base de Cálculo do FGTS",
+    "fgts_baselegal":  "Art. 15 §6º da Lei n° 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

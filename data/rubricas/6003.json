@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "6003",
+    "nome":  "Indenização compensatória do aviso-prévio",
+    "descricao":  "Valor da maior remuneração do trabalhador, correspondente ao número de dias relativo ao aviso prévio, calculado de acordo com o tempo de serviço do empregado",
+    "tipo":  "Vencimento, provento ou pensão",
+    "inss_incidencia":  "Não",
+    "inss_classificacao":  "00 - Não é base de cálculo",
+    "inss_baselegal":  "Art. 7° da IN RFB n° 925/2009",
+    "ir_incidencia":  "Não",
+    "ir_classificacao":  "00 - Rendimento não tributável",
+    "ir_baselegal":  "Lei 7.713, de 1988, art. 6º, inciso V",
+    "fgts_incidencia":  "Sim",
+    "fgts_classificacao":  "21 - Base de Cálculo do FGTS Rescisório (aviso prévio)",
+    "fgts_baselegal":  "Artigo 15, da Lei 8.036/1990, Súmula nº 305 do TST.",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

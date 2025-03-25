@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "1009",
+    "nome":  "Salário-família - complemento",
+    "descricao":  "Valor excedente ao do fixado pela previdência rnsocial para o salário-família",
+    "tipo":  "Vencimento, provento ou pensão",
+    "inss_incidencia":  "Sim",
+    "inss_classificacao":  "11 - Mensal",
+    "inss_baselegal":  "Art. 28, I da Lei n° 8.212/91",
+    "ir_incidencia":  "Não",
+    "ir_classificacao":  " ",
+    "ir_baselegal":  "Art. 200 da Lei 8.112/1990",
+    "fgts_incidencia":  "Não",
+    "fgts_classificacao":  "11 - Base de Cálculo do FGTS",
+    "fgts_baselegal":  "Art. 15 da Lei n° 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

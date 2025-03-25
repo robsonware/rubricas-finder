@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "6001",
+    "nome":  "13º salário relativo ao aviso-prévio indenizado",
+    "descricao":  "Valor correspondente ao 13° salário incidente sobre o aviso-prévio indenizado",
+    "tipo":  "Vencimento, provento ou pensão",
+    "inss_incidencia":  "Sim",
+    "inss_classificacao":  "12 - 13o Salário",
+    "inss_baselegal":  "Art. 28, I da Lei n° 8.212/91",
+    "ir_incidencia":  "Sim",
+    "ir_classificacao":  "12 - 13o Salário",
+    "ir_baselegal":  "Lei 7.713, de 1988, art. 26",
+    "fgts_incidencia":  "Sim",
+    "fgts_classificacao":  "12 - Base de Cálculo do FGTS 13° salário",
+    "fgts_baselegal":  "Art. 15 da Lei n° 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

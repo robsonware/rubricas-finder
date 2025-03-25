@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "1208",
+    "nome":  "Gueltas ou gorjetas - repassadas por fornecedores ou clientes",
+    "descricao":  "Valores pagos diretamente por fornecedores a trabalhador a título de incentivos de vendas (gueltas) ou por clientes a título de recompensa por bons serviços prestados (gorjetas)",
+    "tipo":  "Vencimento, provento ou pensão",
+    "inss_incidencia":  "Sim",
+    "inss_classificacao":  "11 - Mensal",
+    "inss_baselegal":  "Art. 28, I da Lei n° 8.212/91",
+    "ir_incidencia":  "Sim",
+    "ir_classificacao":  "11 - Remuneração mensal",
+    "ir_baselegal":  "Arts. 3°e 7° da Lei n° 7.713/88",
+    "fgts_incidencia":  "Sim",
+    "fgts_classificacao":  "11 - Base de Cálculo do FGTS",
+    "fgts_baselegal":  "Art. 15 da Lei n° 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é Base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  true,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  true,
+    "afastamento":  true
+}

@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "5005",
+    "nome":  "13° salário complementar",
+    "descricao":  "Valor do 13° salário complementar relativo a diferenças apuradas não consideradas na folha de fechamento do 13° salário",
+    "tipo":  "Vencimento, provento ou pensão",
+    "inss_incidencia":  "Sim",
+    "inss_classificacao":  "12 - 13o Salário",
+    "inss_baselegal":  "Art. 28, I da Lei n° 8.212/91",
+    "ir_incidencia":  "Sim",
+    "ir_classificacao":  "12 - 13o Salário",
+    "ir_baselegal":  "Lei 7.713, de 1988, art. 26",
+    "fgts_incidencia":  "Sim",
+    "fgts_classificacao":  "12 - Base de Cálculo do FGTS 13° salário",
+    "fgts_baselegal":  "Art. 15 da Lei n° 8.036/90",
+    "cs_incidencia":  "Não",
+    "cs_classificacao":  "00 - Não é base de cálculo",
+    "cs_baselegal":  "Art. 582 da CLT",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}

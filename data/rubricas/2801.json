@@ -1,0 +1,23 @@
+﻿{
+    "codigo":  "2801",
+    "nome":  "Quarentena remunerada",
+    "descricao":  "Valor equivalente a remuneração se em exercício estivesse, devida ao trabalhador desligado, em período de quarentena",
+    "tipo":  "???",
+    "inss_incidencia":  "???",
+    "inss_classificacao":  "???",
+    "inss_baselegal":  "???",
+    "ir_incidencia":  "???",
+    "ir_classificacao":  " ",
+    "ir_baselegal":  "???",
+    "fgts_incidencia":  "???",
+    "fgts_classificacao":  "???",
+    "fgts_baselegal":  "???",
+    "cs_incidencia":  "???",
+    "cs_classificacao":  "???",
+    "cs_baselegal":  "???",
+    "dsr":  false,
+    "ferias":  false,
+    "aviso_previo":  false,
+    "decimo_terceiro_salario":  false,
+    "afastamento":  false
+}
